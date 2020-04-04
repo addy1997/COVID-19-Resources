@@ -20,7 +20,8 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 
 ## Resources
 <ul>
-<b> All the relevant blogs, research papers, white papers, datasets, etc are listed here.</b>
+<b> All the relevant blogs, research papers, white papers, datasets, etc are listed here.</b> <br>
+  
 <b>Blogs</b>
 <li> White House urges researchers to use AI to analyze 29,000 coronavirus papers - <a href="https://www.reuters.com/article/us-health-coronavirus-tech-research-idUSKBN2133E6" >Link</a></li>
   
