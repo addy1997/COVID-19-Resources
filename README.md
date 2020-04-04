@@ -32,8 +32,9 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 <ul>
 <b>Research Papers</b>  
 <li> Unsupervised word embeddings capture latent knowledge from materials science literature - <a href="https://perssongroup.lbl.gov/papers/dagdelen-2019-word-embeddings.pdf">Link</a></li>
+  
+<li>Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction - <a href="https://arxiv.org/pdf/1909.05360.pdf">Link</a></li>
 
-<li>
 
   
 </ul>
@@ -41,8 +42,18 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 <ul>
 <b>Datasets</b>
 <li>COVID-19 Open Research Dataset Challenge (CORD-19)- <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge">Link</a></li>
+  
+<li>sansten_covid-19 dataset- <a href="https://drive.google.com/file/d/1egTa2hFNjBYKd8YF92nFAb4se-gj6fwA/view">Link</a></li>
+
 <li>
+ 
 </ul>
+
+<ul>
+<b>Github repositories</b>
+<li>Epidemic calculator- <a href="http://gabgoh.github.io/COVID/index.html">Link</a></li>
+  
+<li>
 
 
 
