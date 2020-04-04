@@ -125,6 +125,8 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
   
 <li>covid19model-<a href="https://github.com/ImperialCollegeLondon/covid19model">Link</a></li>
 
+<li>Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology- <a href="https://github.com/deepchem/deepchem">Link</a></li>
+
 </ul>
 
 
