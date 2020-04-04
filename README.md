@@ -118,7 +118,7 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 
 <ul>
-<b>Challenges, Competitions, Courses</b>
+<b>Challenges & Competitions</b>
   
 <li>Coronavirus:Using AI to Understand Policy Effects on the Economically Marginalized during Pandemics-<a href="https://omdena.com/challenges/ai-pandemics">Link</a></li>
 
