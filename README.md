@@ -58,6 +58,9 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 
 <li>Affinity Mit blog-<a href="https://affinity.mit.edu/">Link</a></li>
 
+
+<li>5 Datasets About COVID-19 you can Use Right Now-<a href="https://towardsdatascience.com/5-datasets-about-covid-19-you-can-use-right-now-46307b1406a">Link</a></li>
+
 </ul>
   
   
@@ -107,7 +110,8 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Novel Coronavirus (COVID-19) Cases Data-<a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases">Link</a></li>
 
-<li>COVID-19 Open Research Dataset (CORD-19)-<a href="https://registry.opendata.aws/cord-19/"></a></li>
+<li>COVID-19 Open Research Dataset (CORD-19)-<a href="https://registry.opendata.aws/cord-19/">Link</a></li>
+
 
 </ul>
 
