@@ -38,6 +38,16 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
   
 </ul>
 
+<ul>
+<b>Datasets</b>
+<li>COVID-19 Open Research Dataset Challenge (CORD-19)- <a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge">Link</a></li>
+<li>
+</ul>
+
+
+
+
+
 
 
 
