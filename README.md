@@ -56,7 +56,7 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 <li>White House Announces New Partnership to Unleash U.S. Supercomputing Resources to Fight COVID-19-<a href="https://www.whitehouse.gov/briefings-statements/white-house-announces-new-partnership-unleash-u-s-supercomputing-resources-fight-covid-19/">Link</a></li>
 
 
-<li>Affinity Mit blog<a href="https://affinity.mit.edu/">Link</a></li>
+<li>Affinity Mit blog-<a href="https://affinity.mit.edu/">Link</a></li>
 
 </ul>
   
