@@ -112,7 +112,7 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Stimulating an Epidemic-<a href="https://www.youtube.com/watch?v=gxAaO2rsdIs&feature=youtu.be">Link</a></li>
   
-<li>covid19model<a href="https://github.com/ImperialCollegeLondon/covid19model">Link</a></li>
+<li>covid19model-<a href="https://github.com/ImperialCollegeLondon/covid19model">Link</a></li>
 
 </ul>
 
