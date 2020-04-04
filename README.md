@@ -19,13 +19,16 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 </ul>
 
 ## Resources
+
 <ul>
 <b> All the relevant blogs, research papers, white papers, datasets, etc are listed here.</b> <br>
   
 <b>Blogs</b>
-<li> White House urges researchers to use AI to analyze 29,000 coronavirus papers - <a href="https://www.reuters.com/article/us-health-coronavirus-tech-research-idUSKBN2133E6" >Link</a></li>
+<li>White House urges researchers to use AI to analyze 29,000 coronavirus papers - <a href="https://www.reuters.com/article/us-health-coronavirus-tech-research-idUSKBN2133E6">Link</a></li>
   
-<li> 
+<li>A report focused on decision-makers for PHS LAB. The main aim was to translate in a visual speech, the conclusions of the data mining process made by PHS LAB about health matters that impact the quality life of Toronto's citizens. - <a href="https://www.behance.net/gallery/74360365/Health-report-of-Toronto-neighborhoods">Link</a></li>
+
+<li>
 </ul>
   
   
@@ -34,6 +37,7 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 <li> Unsupervised word embeddings capture latent knowledge from materials science literature - <a href="https://perssongroup.lbl.gov/papers/dagdelen-2019-word-embeddings.pdf">Link</a></li>
   
 <li>Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction - <a href="https://arxiv.org/pdf/1909.05360.pdf">Link</a></li>
+
 
 
   
@@ -54,6 +58,16 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 <li>Epidemic calculator- <a href="http://gabgoh.github.io/COVID/index.html">Link</a></li>
   
 <li>
+  
+<ul>
+<b>Challenges & Competitions</b>
+<li>Coronavirus: Using AI to Understand Policy Effects on the Economically Marginalized during Pandemics- <a href="https://omdena.com/challenges/ai-pandemics">Link</a></li>
+
+<li> 
+
+</ul>
+
+
 
 
 
