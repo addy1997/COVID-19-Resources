@@ -22,7 +22,7 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 <ul>
 <b> All the relevant blogs, research papers, white papers, datasets, etc are listed here.</b>
 <li> <b> Blogs </b></li>
-<>
+<ul>
 
 
 
