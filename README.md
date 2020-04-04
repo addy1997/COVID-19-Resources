@@ -107,7 +107,7 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Novel Coronavirus (COVID-19) Cases Data-<a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases">Link</a></li>
 
-![Software](https://github.com/addy1997/COVID-19/blob/master/Screenshot%202020-04-04%20at%2011.23.20%20PM.png)
+<li>COVID-19 Open Research Dataset (CORD-19)-<a href="https://registry.opendata.aws/cord-19/"></a></li>
 
 </ul>
 
