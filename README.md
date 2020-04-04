@@ -19,8 +19,6 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 </ul>
 
 ## Resources
-
-<>
 <b> All the relevant blogs, research papers, white papers, datasets, etc are listed here.</b>
 
 
