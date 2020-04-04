@@ -103,7 +103,10 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Novel Corona Virus 2019 Dataset- <a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset/tasks?taskId=508">Link</a></li>
 
+<li>Corona Virus (COVID-19) Tweets Dataset-<a href="https://ieee-dataport.org/open-access/corona-virus-covid-19-tweets-dataset">Link</a></li>
+
 </ul>
+
 
 <ul>
 <b>Github repositories</b>
