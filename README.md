@@ -84,7 +84,7 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 <li>Attacking the Covid-19 with the Ising-model and the Fermi-Dirac Distribution Function- <a href="https://arxiv.org/abs/2003.11860">Link</a></li>
 
 <li>Planning as Inference in Epidemiological Models-<a href="https://arxiv.org/abs/2003.13221">Link</a></li>
-<li>Planning as Inference in Epidemiological Models[code]-<a> href="https://github.com/plai-group/covid">Link</a></li>
+<li>Planning as Inference in Epidemiological Models-<a href="https://github.com/plai-group/covid">Code</a></li>
 
 <li>Predicting commercially available antiviral drugs that may act on the novel coronavirus (2019-nCoV), Wuhan, China through a drug-target interaction deep learning model-<a href="https://www.biorxiv.org/content/10.1101/2020.01.31.929547v1">Link</a></li> 
 
