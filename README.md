@@ -130,6 +130,12 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Democratizing Deep-Learning for Drug Discovery, Quantum Chemistry, Materials Science and Biology- <a href="https://github.com/deepchem/deepchem">Link</a></li>
 
+<li>covid-19 Dashboard-<a href="https://github.com/github/covid19-dashboard">Link</a></li>
+
+<li>covid-19 scenarios -<a href="https://github.com/neherlab/covid19_scenarios">Link</a></li>
+
+<li>TH_COVID19_International -<a href="https://github.com/Tencent/TH_COVID19_International">Link</a></li>
+
 </ul>
 
 
