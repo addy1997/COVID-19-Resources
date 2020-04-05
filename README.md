@@ -67,12 +67,12 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 
 <li>Understanding the COVID-19 Pandemic as a Big Data Analytics Issue-<a href="Understanding the COVID-19 Pandemic as a Big Data Analytics Issue">Link</a></li>
 
-
 </ul>
   
   
 <ul>
 <b>Research Papers</b>  
+  
 <li> Unsupervised word embeddings capture latent knowledge from materials science literature - <a href="https://perssongroup.lbl.gov/papers/dagdelen-2019-word-embeddings.pdf">Link</a></li>
   
 <li>Joint Event and Temporal Relation Extraction with Shared Representations and Structured Prediction - <a href="https://arxiv.org/pdf/1909.05360.pdf">Link</a></li>
@@ -101,6 +101,8 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 
 <li>Graph-based genetic algoritm and generative model/ MCTS for the exploration of chemical space- <a href="https://chemrxiv.org/articles/Graph-based_Genetic_Algorithm_and_Generative_Model_Monte_Carlo_Tree_Search_for_the_Exploration_of_Chemical_Space/7240751">Link</a></li>
+
+<li>AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery-<a href="https://arxiv.org/abs/1510.02855"></a></li>
 
 </ul>
 
