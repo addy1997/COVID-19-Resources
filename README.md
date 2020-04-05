@@ -65,6 +65,9 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 
 <li>Mapping the landscape of artificial intelligence applications against COVID-19- <a href="https://www.unglobalpulse.org/2020/03/mapping-the-landscape-of-artificial-intelligence-applications-against-covid-19/">Link</a></li>
 
+<li>Understanding the COVID-19 Pandemic as a Big Data Analytics Issue-<a href="Understanding the COVID-19 Pandemic as a Big Data Analytics Issue">Link</a></li>
+
+
 </ul>
   
   
