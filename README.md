@@ -102,7 +102,7 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Graph-based genetic algoritm and generative model/ MCTS for the exploration of chemical space- <a href="https://chemrxiv.org/articles/Graph-based_Genetic_Algorithm_and_Generative_Model_Monte_Carlo_Tree_Search_for_the_Exploration_of_Chemical_Space/7240751">Link</a></li>
 
-<li>AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery-<a href="https://arxiv.org/abs/1510.02855"></a></li>
+<li>AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery-<a href="https://arxiv.org/abs/1510.02855">Link</a></li>
 
 </ul>
 
