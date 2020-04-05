@@ -61,6 +61,10 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 
 <li>5 Datasets About COVID-19 you can Use Right Now-<a href="https://towardsdatascience.com/5-datasets-about-covid-19-you-can-use-right-now-46307b1406a">Link</a></li>
 
+<li>How can AI and data science help to fight the coronavirus?-<a href="https://www.ericsson.com/en/blog/2020/4/ai-and-data-science-to-fight-coronavirus">Link</a></li>
+
+<li>Mapping the landscape of artificial intelligence applications against COVID-19- <a href="https://www.unglobalpulse.org/2020/03/mapping-the-landscape-of-artificial-intelligence-applications-against-covid-19/">Link</a></li>
+
 </ul>
   
   
