@@ -104,6 +104,32 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery-<a href="https://arxiv.org/abs/1510.02855">Link</a></li>
 
+<li>COVID-19 Resnet- A deeplearning framework for screening of covid-19 from RadioGraphs-<a href="https://github.com/addy1997/COVID-19/blob/master/papers/2003.14395.pdf">Link</a></li>
+
+<li>Power law distribution in number of confiremed COVID-19 cases-<a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.00940.pdf">Link</a></li>
+
+<li>SEIR and REgression model based COVID-19 outbreak predictions in India-<a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.00958.pdf">Link</a></li>
+
+<li>Inferring COVID-19 Spreading rates & potential charge points-<a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.01105.pdf">Link</a></li>
+
+<li>Detection of COVID-19 Associated Pneumonia based GAN - <a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.01184.pdf">Link</a></li>
+
+<li>for the coronavirus COVID-19 outbreak-<a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.01487.pdf">Link</a></li>
+
+<li>Generating Similarity Map in COVID-19 Transmission Dynamics with Topological Autoencoder-<a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.01481.pdf">Link</a></li>
+
+<li>An alternating lock-down strategy for sustainable mitigation of COVID-19-<a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.01453.pdf">Link</a></li>
+
+
+<li>AI4COVID-19: AI Enabled Preliminary Diagnosis for COVID-19 from Cough Samples via an App- <a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.01275.pdf">Link</a></li>
+
+
+<li>COVID-19: Should We Test Everyone?- <a href="https://github.com/addy1997/COVID-19/tree/master/papers">Link</a></li>
+
+<li>Neural network based country wise risk prediction of COVID-19-<a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.00959.pdf">Link</a></li>
+
+<li>Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models- <a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.01215.pdf">Link</a></li>
+
 </ul>
 
 
