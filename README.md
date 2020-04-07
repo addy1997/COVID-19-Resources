@@ -180,6 +180,20 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>TH_COVID19_International -<a href="https://github.com/Tencent/TH_COVID19_International">Link</a></li>
 
+<li>Novel Coronavirus (COVID-19) Cases, provided by JHU CSSE - <a href="https://github.com/CSSEGISandData/COVID-19">Link</a></li>
+
+<li>Using HERE Technologies APIs, fork and build your own COVID-19 Tracker- <a href="https://github.com/heremaps/here-covid-19-tracker">Link</a></li>
+
+<li>Coronavirus (COVID-19) dashboard to show the dynamics of Сoronavirus distribution per country - <a href="https://github.com/trekhleb/covid-19">Link</a></li>
+
+<li>COVID-19 Testing Site Finder with Risk Assessment - <a href="https://github.com/oscarhealth/covid19-testing">Link</a></li>
+
+<li>We are building an open database of COVID-19 cases with chest X-ray or CT images. - <a href="https://github.com/ieee8023/covid-chestxray-dataset">Link</a></li>
+
+<li>A global collection of Open Source projects during COVID-19 - <a href="https://github.com/WeileiZeng/Open-Source-COVID-19">Link</a></li>
+
+<li>COVID-19 Korea Dataset & Comprehensive Medical Dataset & visualizer - <a href="https://github.com/ThisIsIsaac/Data-Science-for-COVID-19">Link</a></li>
+
 </ul>
 
 
