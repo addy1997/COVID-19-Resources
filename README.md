@@ -190,7 +190,6 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>COVID 19 Solution Challenge-<a href="https://innovate.mygov.in/covid19/">Link</a></li>
 
-<li>
 </ul>
 
 
