@@ -1,5 +1,6 @@
 # COVID-19
-### This repository contains a curated list of resources for constructing mathematical models and doing analysis on COVID-19.
+### This repository contains a curated list of resources for constructing mathematical models and doing analysis on COVID-19. (This repository is updated every 6 hours)
+
 ![Template](https://github.com/addy1997/COVID-19/blob/master/AITaskForcev2.png)
 
 These resources are made out of the list posted on our [slack channel](https://www.linkedin.com/feed/update/urn:li:activity:6652004847895793664/) created by [Mr. Vincent Boucher](https://ca.linkedin.com/in/montrealai?trk=public-post_share-update_actor-text).
