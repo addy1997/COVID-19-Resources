@@ -68,6 +68,14 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 
 <li>Understanding the COVID-19 Pandemic as a Big Data Analytics Issue-<a href="Understanding the COVID-19 Pandemic as a Big Data Analytics Issue">Link</a></li>
 
+<li>COVID-19 tracking integrated into Conduent Maven platform-<a href="https://economictimes.indiatimes.com/tech/software/covid-19-tracking-integrated-into-conduent-maven-platform/articleshow/74792429.cms">Link</a></li>
+
+<li>Palantir provides COVID-19 tracking software to CDC and NHS, pitches European health agencies-<a href="https://techcrunch.com/2020/04/01/palantir-coronavirus-cdc-nhs-gotham-foundry/">Link</a></li>
+
+<li>Cyborg Systems Develops COVID-19 Tracking Software-<a href="https://www.aithority.com/security/cyborg-systems-develops-covid-19-tracking-software/">Link</a></li>
+
+
+
 </ul>
   
   
