@@ -9,9 +9,13 @@ These resources are made out of the list posted on our [slack channel](https://w
 
 As you may know that the Corona Virus or Sars-Cov-2 is wrecking havoc on the face of Earth. It has challenged even the developed nations like the USA, UK, Italy, etc by overwhelming their health care facilities, collapsing their economy and puting lives of billions at risk. This is a small effort from to design a system incorporating the machine learning techniques to analyse the situation and lessen the effect by studing virus' rapid growth.
 
+![Problem statement](https://github.com/addy1997/COVID-19/blob/master/Screen%20Shot%202020-04-05%20at%203.08.01%20PM.png)
+
 ## Goal
 
 Our aim is to create a [gym](https://gym.openai.com/) based environment for simulating the corona virus agent to study all the possible effects find solutions to counter the rapidly spreading pandemic. 
+
+
 
 ## libraries 
 
