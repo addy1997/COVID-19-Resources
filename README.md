@@ -153,6 +153,8 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 <li>A Robust Stochastic Method of Estimating the Transmission Potential of 2019-nCoV- <a href="https://github.com/addy1997/COVID-19-Resources/blob/master/papers/2002.03828.pdf">Link</a></li>
   
 <li>Structural modeling of 2019-novel coronavirus (nCoV) spike protein reveals a proteolytically-sensitive activation loop as a distinguishing feature compared to SARS-CoV and related SARS-like coronaviruses-<a href="https://github.com/addy1997/COVID-19-Resources/commit/39468ff25c1c2ca5099e2ec663074e65ae9c5d66">Link</a></li>
+
+<li>Spatial-Temporal Dataset of COVID-19 Outbreak in China - <a href="https://github.com/addy1997/COVID-19-Resources/blob/master/papers/2003.11716.pdf">Link</a></li>
   
 </ul>
 
