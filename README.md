@@ -112,7 +112,6 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Development and evaluation of a deep learning model for protein–ligand binding affinity prediction-<a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6198856/">Link</a></li>
 
-
 <li>Graph-based genetic algoritm and generative model/ MCTS for the exploration of chemical space- <a href="https://chemrxiv.org/articles/Graph-based_Genetic_Algorithm_and_Generative_Model_Monte_Carlo_Tree_Search_for_the_Exploration_of_Chemical_Space/7240751">Link</a></li>
 
 <li>AtomNet: A Deep Convolutional Neural Network for Bioactivity Prediction in Structure-based Drug Discovery-<a href="https://arxiv.org/abs/1510.02855">Link</a></li>
@@ -142,6 +141,11 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 <li>Neural network based country wise risk prediction of COVID-19-<a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.00959.pdf">Link</a></li>
 
 <li>Target-Specific and Selective Drug Design for COVID-19 Using Deep Generative Models- <a href="https://github.com/addy1997/COVID-19/blob/master/papers/2004.01215.pdf">Link</a></li>
+
+<li>Understanding the CoVID-19 pandemic Curve through statistical approach- <a href="https://www.medrxiv.org/content/10.1101/2020.04.06.20055426v1">Link</a></li>
+
+
+<li>A model to predict SARS-CoV-2 infection based on the first three-month surveillance data in Brazil - <a href="https://www.medrxiv.org/content/10.1101/2020.04.05.20047944v1">Link</a></li>
 
 </ul>
 
