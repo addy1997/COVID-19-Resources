@@ -144,9 +144,16 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Understanding the CoVID-19 pandemic Curve through statistical approach- <a href="https://www.medrxiv.org/content/10.1101/2020.04.06.20055426v1">Link</a></li>
 
-
 <li>A model to predict SARS-CoV-2 infection based on the first three-month surveillance data in Brazil - <a href="https://www.medrxiv.org/content/10.1101/2020.04.05.20047944v1">Link</a></li>
 
+<li>A Simple Prediction Model for the Development Trend of 2019-nCov Epidemics Based on Medical Observations -<a href="https://github.com/addy1997/COVID-19-Resources/commit/d29aaf10940df5b0f1f0217c62e5b1c848248312">Link</a></li>
+
+<li>A Time Delay Dynamic System with External Source for the Local Outbreak of 2019-nCoV-<a href="https://github.com/addy1997/COVID-19-Resources/commit/d29aaf10940df5b0f1f0217c62e5b1c848248312">Link</a></li>
+
+<li>A Robust Stochastic Method of Estimating the Transmission Potential of 2019-nCoV- <a href="https://github.com/addy1997/COVID-19-Resources/blob/master/papers/2002.03828.pdf">Link</a></li>
+  
+<li>Structural modeling of 2019-novel coronavirus (nCoV) spike protein reveals a proteolytically-sensitive activation loop as a distinguishing feature compared to SARS-CoV and related SARS-like coronaviruses-<a href="https://github.com/addy1997/COVID-19-Resources/commit/39468ff25c1c2ca5099e2ec663074e65ae9c5d66">Link</a></li>
+  
 </ul>
 
 
