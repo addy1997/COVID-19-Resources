@@ -163,6 +163,8 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>COVID-19 Open Research Dataset (CORD-19)-<a href="https://registry.opendata.aws/cord-19/">Link</a></li>
 
+<li>Corona virus tracking datasets by data.world <a href="https://data.world/datasets/covid-19">Link</a></li>
+
 
 </ul>
 
