@@ -155,6 +155,18 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 <li>Structural modeling of 2019-novel coronavirus (nCoV) spike protein reveals a proteolytically-sensitive activation loop as a distinguishing feature compared to SARS-CoV and related SARS-like coronaviruses-<a href="https://github.com/addy1997/COVID-19-Resources/commit/39468ff25c1c2ca5099e2ec663074e65ae9c5d66">Link</a></li>
 
 <li>Spatial-Temporal Dataset of COVID-19 Outbreak in China - <a href="https://github.com/addy1997/COVID-19-Resources/blob/master/papers/2003.11716.pdf">Link</a></li>
+
+<li>A machine learning methodology for real-time forecasting of the 2019-2020 COVID-19 outbreak using Internet searches, news alerts, and estimates from mechanistic models- <a href="https://arxiv.org/abs/2004.04019">Link</a></li>
+
+<li>COVID_MTNet: COVID-19 Detection with Multi-Task Deep Learning Approaches- <a href="https://arxiv.org/abs/2004.03747">Link</a></li>
+
+<li>Coronavirus (COVID-19) Classification using Deep Features Fusion and Ranking Technique- <a href="https://arxiv.org/abs/2004.03698">Link</a></li>
+
+<li>Modelling death rates due to COVID-19: A Bayesian approach- <a href="https://arxiv.org/abs/2004.02386">Link</a></li>
+
+<li>Analysis of the COVID 19 outbreak timeline in New York State counties- <a href="https://arxiv.org/abs/2004.02366">Link</a></li>
+
+<li>Bayesian semiparametric time varying model for count data to study the spread of the COVID-19 cases - <a href="https://arxiv.org/abs/2004.02281">Link</a></li>
   
 </ul>
 
