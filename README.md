@@ -78,6 +78,13 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 
 <li>Cyborg Systems Develops COVID-19 Tracking Software-<a href="https://www.aithority.com/security/cyborg-systems-develops-covid-19-tracking-software/">Link</a></li>
 
+<li>Apple and Google Join Forces to Track the Spread of Coronavirus- <a href="https://coronavirus.medium.com/apple-and-google-join-forces-to-track-spread-of-coronavirus-fc2c68fda0ea">Link</a></li>
+
+<li>The Problem With ‘Immunity Passports’- <a href="https://coronavirus.medium.com/the-problem-with-immunity-passports-3764d49df7c8">Link</a></li>
+
+<li>Will an Antibody Test Allow Us to Go Back to School or Work?- <a href="https://www.nytimes.com/2020/04/10/health/coronavirus-antibody-test.html">Link</a></li>
+
+
 
 
 </ul>
