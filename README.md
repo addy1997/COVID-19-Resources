@@ -84,8 +84,7 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 
 <li>Will an Antibody Test Allow Us to Go Back to School or Work?- <a href="https://www.nytimes.com/2020/04/10/health/coronavirus-antibody-test.html">Link</a></li>
 
-
-
+<li>Why it’s too early to start giving out “immunity passports” - <a href="https://www.technologyreview.com/2020/04/09/998974/immunity-passports-cornavirus-antibody-test-outside/?truid=a48b87a65416a1d0ada2c01a698dc8ea&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_content=04-10-2020">Link</a></li>
 
 </ul>
   
