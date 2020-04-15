@@ -6,7 +6,7 @@
 
 [![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/COVID-19-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/COVID-19-Resources/graphs/commit-activity)
 
-[[Stars](https://github.com/addy1997/COVID-19-Resources)![Stars](https://img.shields.io/github/stars/addy1997/COVID-19-Resources.svg?style=flat&label=Star&maxAge=86400)]
+[![Stars](https://img.shields.io/github/stars/addy1997/COVID-19-Resources.svg?style=flat&label=Star&maxAge=86400)](STARS)
 
 
 
