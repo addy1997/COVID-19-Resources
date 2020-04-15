@@ -1,5 +1,7 @@
 # COVID-19-Resources
 ### This repository contains a curated list of resources for constructing mathematical models and doing analysis on COVID-19. (This repository is updated every 6 hours)
+[![Software License](https://img.shields.io/badge/license-GNU-brightgreen.svg)](LICENSE)
+
 
 ![Template](https://github.com/addy1997/COVID-19/blob/master/AITaskForcev2.png)
 
