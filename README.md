@@ -3,7 +3,7 @@
 [![Software License](https://img.shields.io/badge/license-GNU-brightgreen.svg)](LICENSE)
 [![Build status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true)](https://ci.appveyor.com/project/addy1997/COVID-19-Resources)
 [![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/COVID-19-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/COVID-19-Resources/graphs/commit-activity)
-[![COVID-19-Resources](https://img.shields.io/github/stars/addy1997/COVID-19-Resources.svg?style=flat&label=Star&maxAge=86400)]
+[![Stars](https://img.shields.io/github/stars/addy1997/COVID-19-Resources.svg?style=flat&label=Star&maxAge=86400)]
 
 
 
