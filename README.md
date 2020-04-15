@@ -173,6 +173,12 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 <li>Analysis of the COVID 19 outbreak timeline in New York State counties- <a href="https://arxiv.org/abs/2004.02366">Link</a></li>
 
 <li>Bayesian semiparametric time varying model for count data to study the spread of the COVID-19 cases - <a href="https://arxiv.org/abs/2004.02281">Link</a></li>
+
+<li>Rapidly Deploying a Neural Search Engine for the COVID-19 Open Research Dataset: Preliminary Thoughts and Lessons Learned - <a href="https://arxiv.org/abs/2004.05125">Link</a></li>
+
+<li>DeepCOVIDExplainer: Explainable COVID-19 Predictions Based on Chest X-ray Images- <a href="https://arxiv.org/abs/2004.04582">Link</a></li>
+
+<li>Give more data, awareness and control to individual citizens, and they will help COVID-19 containment- <a href="https://arxiv.org/abs/2004.05222">Link</a></li>
   
 </ul>
 
