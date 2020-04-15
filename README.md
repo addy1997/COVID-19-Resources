@@ -1,5 +1,5 @@
 # COVID-19-Resources
-### This repository contains a curated list of resources for constructing mathematical models and doing analysis on COVID-19. (This repository is updated every 6 hours)
+### This repository contains a curated list of resources for constructing mathematical models and doing analysis on COVID-19. (This repository is updated in every 6 hours)
 [![Software License](https://img.shields.io/badge/license-GNU-brightgreen.svg)](LICENSE)
 
 [![Build status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true)](https://ci.appveyor.com/project/addy1997/COVID-19-Resources)
