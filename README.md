@@ -246,6 +246,8 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>COVID-19 Korea Dataset & Comprehensive Medical Dataset & visualizer - <a href="https://github.com/ThisIsIsaac/Data-Science-for-COVID-19">Link</a></li>
 
+<li>COVID-19-Anti-viral-cure-using-deep-reinforcement-learning- <a href="https://github.com/Ifiokcharles/COVID-19-Anti-viral-cure-using-deep-reinforcement-learning">Link</a></li>
+
 </ul>
 
 
