@@ -252,7 +252,6 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 </ul>
 
-
 <ul>
 <b>Challenges & Competitions</b>
   
