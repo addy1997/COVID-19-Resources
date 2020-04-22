@@ -248,6 +248,8 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>COVID-19-Anti-viral-cure-using-deep-reinforcement-learning- <a href="https://github.com/Ifiokcharles/COVID-19-Anti-viral-cure-using-deep-reinforcement-learning">Link</a></li>
 
+<li>Tools for COVID-19 Research- <a href="https://github.com/josephsdavid/cord-19-tools">Link</a></li>
+
 </ul>
 
 
