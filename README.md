@@ -188,6 +188,8 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 <li>DeepCOVIDExplainer: Explainable COVID-19 Predictions Based on Chest X-ray Images- <a href="https://arxiv.org/abs/2004.04582">Link</a></li>
 
 <li>Give more data, awareness and control to individual citizens, and they will help COVID-19 containment- <a href="https://arxiv.org/abs/2004.05222">Link</a></li>
+
+<li>Identification of potential treatments for COVID-19 through artificial intelligence-enabled phenomic analysis of human cells infected with SARS-CoV-2 - <a href="https://www.biorxiv.org/content/10.1101/2020.04.21.054387v1">Link</a></li>
   
 </ul>
 
