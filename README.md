@@ -215,7 +215,6 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Novel Corona Virus cases dataset <a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases">Link</a></li>
 
-<li>
 </ul>
 
 
