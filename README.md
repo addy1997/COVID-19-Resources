@@ -207,7 +207,15 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 <li>Corona virus tracking datasets by data.world <a href="https://data.world/datasets/covid-19">Link</a></li>
 
+<li> Covid-19 Open Research Dataset Challenge(CORD-19)<a href="https://www.kaggle.com/allen-institute-for-ai/CORD-19-research-challenge">Link</a></li>
 
+<li>Novel Corona Dataset 2019 <a href="https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset">Link</a></li>
+
+<li>geographic distribution of COVID-19 cases worldwide - <a href="https://www.ecdc.europa.eu/en/publications-data/download-todays-data-geographic-distribution-covid-19-cases-worldwide">Link</a></li>
+
+<li>Novel Corona Virus cases dataset <a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases">Link</a></li>
+
+<li>
 </ul>
 
 
