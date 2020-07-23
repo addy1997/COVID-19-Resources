@@ -4,23 +4,24 @@
 ### This repository contains a curated list of resources for constructing mathematical models and doing analysis on COVID-19. (This repository is updated in every 6 hours)
 [![Software License](https://img.shields.io/badge/license-GNU-brightgreen.svg)](LICENSE) [![Build status](https://ci.appveyor.com/api/projects/status/8e784doc5sye7c41?svg=true) [![Contributions](https://img.shields.io/github/commit-activity/m/addy1997/COVID-19-Resources.svg?color=%09%2346c018)](https://github.com/addy1997/COVID-19-Resources/graphs/commit-activity) [![Stars](https://img.shields.io/github/stars/addy1997/COVID-19-Resources.svg?style=flat&label=Star&maxAge=86400)](STARS) [![Dependency Status](https://david-dm.org/addy1997/COVID-19-Resources.svg)](https://david-dm.org/addy1997/COVID-19-Resources)     
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ![Template](https://github.com/addy1997/COVID-19/blob/master/AITaskForcev2.png)
 
 These resources are made out of the list posted on our [slack channel](https://www.linkedin.com/feed/update/urn:li:activity:6652004847895793664/) created by [Mr. Vincent Boucher](https://ca.linkedin.com/in/montrealai?trk=public-post_share-update_actor-text).
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Problem Statement
 
 As you may know that the Corona Virus or Sars-Cov-2 is wrecking havoc on the face of Earth. It has challenged even the developed nations like the USA, UK, Italy, etc by overwhelming their health care facilities, collapsing their economy and puting lives of billions at risk. This is a small effort from to design a system incorporating the machine learning techniques to analyse the situation and lessen the effect by studing virus' rapid growth.
 
 ![Problem statement](https://github.com/addy1997/COVID-19/blob/master/Screen%20Shot%202020-04-05%20at%203.08.01%20PM.png)
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Goal
 
 Our aim is to create a [gym](https://gym.openai.com/) based environment for simulating the corona virus agent to study all the possible effects find solutions to counter the rapidly spreading pandemic. 
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## libraries 
 
@@ -30,6 +31,7 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 <li> <b> for data visualization</b> - numpy, pandas, etc.</li>
 </ul>
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Resources
 
 <ul>
@@ -92,7 +94,7 @@ Our aim is to create a [gym](https://gym.openai.com/) based environment for simu
 <li>Why it’s too early to start giving out “immunity passports” - <a href="https://www.technologyreview.com/2020/04/09/998974/immunity-passports-cornavirus-antibody-test-outside/?truid=a48b87a65416a1d0ada2c01a698dc8ea&utm_source=the_download&utm_medium=email&utm_campaign=the_download.unpaid.engagement&utm_content=04-10-2020">Link</a></li>
 
 </ul>
-  
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------  
   
 <ul>
 <b>Research Papers</b>  
@@ -189,7 +191,7 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
   
 </ul>
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 <ul>
 <b>Datasets</b>
   
@@ -218,7 +220,7 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 <li>Novel Corona Virus cases dataset <a href="https://data.humdata.org/dataset/novel-coronavirus-2019-ncov-cases">Link</a></li>
 
 </ul>
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 <ul>
 <b>Github repositories</b>
@@ -266,7 +268,7 @@ VIP AI 101 CHEATSHEET - <a href="www.montreal.ai/ai4all.pdf">Link</a></li>
 
 </ul>
 
-
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
